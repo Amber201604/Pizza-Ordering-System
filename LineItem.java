@@ -2,8 +2,6 @@ package application;
 /**
  *  The class is to calculate the total cost of pizza.
  *  * name: Qianyu Zhang
-	 * NetID: 16qz2
-	 * date: 2017-10-27
  * This version demonstrates the implementation of Comparable (for sorting) and Serializable (for
  * filing).  Also, the mutators for temperature and weather condition have been combined, so both
  * attributes have to be set at the same time.  In this way they cannot be set to an illegal value
