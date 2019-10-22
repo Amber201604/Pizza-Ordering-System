@@ -2,8 +2,6 @@ package application;
 /**
  * This class is to calculate the price of pizza based on the attributes. There are 4 attributes 'size', 'cheese','mushrooms', 'pepperoni'
 	 * name: Qianyu Zhang
-	 * NetID: 16qz2
-	 * date: 2017-10-27
 	 * <p>
  * This version demonstrates the implementation of Comparable (for sorting) and Serializable (for
  * filing).  Also, the mutators for temperature and weather condition have been combined, so both
